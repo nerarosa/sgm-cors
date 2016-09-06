@@ -6,10 +6,10 @@
   "author": "Rob Wu <rob@robwu.nl>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rob--W/cors-anywhere.git"
+    "url": "https://github.com/nerarosa/sgm-cors.git"
   },
   "bugs": {
-    "url": "https://github.com/Rob--W/cors-anywhere/issues/",
+    "url": "https://github.com/nerarosa/sgm-cors/issues/",
     "email": "rob@robwu.nl"
   },
   "keywords": [
